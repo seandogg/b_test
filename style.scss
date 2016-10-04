@@ -871,6 +871,11 @@ tbody tr:nth-child(odd) th {
 
 /* Literal.Number.Integer.Long */
 
-#gradient {
+#gradient
+{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
     opacity: 0.2;
 }
