@@ -5,7 +5,6 @@
 <body class="preload">
     <div class="top"></div>
     <div class="profile" style="background-image: url({{ site.background }});">
-        <div id="gradient" />
         <img src="https://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
         <h3>{{ site.name }}</h3>
         <p>{{ site.description }}</p>
@@ -42,5 +41,5 @@
         document.getElementsByTagName("BODY")[0].classList.remove("preload");
     }
 </script>
-<!-- <script src="/resources/js/jquery.min.js"></script> -->
+ <script src="/resources/js/jquery.min.js"></script>
 </html>
