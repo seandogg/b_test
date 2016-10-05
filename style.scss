@@ -50,7 +50,7 @@ a {
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        animation: zomg 0.9s infinite;
         text-decoration: dotted;
     }
 }
