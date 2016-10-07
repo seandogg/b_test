@@ -880,10 +880,6 @@ tbody tr:nth-child(odd) th {
 }
 
 
-/* Literal.Number.Integer.Long */
-
-
-
 @-webkit-keyframes zomg {
     0%, 100% { color: #7ccdea; }
     16%      { color: #0074d9; }
@@ -899,4 +895,16 @@ tbody tr:nth-child(odd) th {
     48%      { color: #ffdc00; }
     64%      { color: #b10dc9; }
     80%      { color: #ff4136; }
+}
+
+.stacked {
+    display: block;
+    li {
+        list-style: none;
+
+        a {
+            color: #fff;
+            font-size: 18px;
+        }
+    }
 }
