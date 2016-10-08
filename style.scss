@@ -45,12 +45,12 @@ body {
 }
 
 a {
-    color: #515151;
+    color: #ec407a;
     text-decoration: none;
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        animation: zomg 0.9s infinite;
         text-decoration: dotted;
     }
 }
@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 
 .top {
     position: fixed;
-    background: #EC407A;
+    background: #0c1427;
     height: 3px;
     width: 100%;
     top: 0;
@@ -319,7 +319,7 @@ tbody tr:nth-child(odd) th {
     }
     h3 {
         height: auto;
-        margin-right: 4vw;
+        margin-right: 16vw;
         margin-top: 10vw;
         width: 50%;
         float: right;
@@ -329,10 +329,10 @@ tbody tr:nth-child(odd) th {
         height: auto;
         width: 100%;
         text-align: center;
-        color: #BDBDBD;
+        color: #fff;
     }
     .social {
-        margin-left: 25vw;
+        margin-left: 35vw;
         height: auto;
         width: 100%;
     }
@@ -366,11 +366,22 @@ tbody tr:nth-child(odd) th {
         .social {
             position: absolute;
             bottom: 0;
-            margin-left: 2vw;
+            margin-left: 5.5vw;
             a {
                 padding: 0;
                 margin-left: 0;
             }
+        }
+    }
+}
+
+.social {
+    a {
+        color: #fff;
+        &:hover,
+        &:focus {
+            color: #EC407A;
+            text-decoration: dotted;
         }
     }
 }
@@ -869,4 +880,19 @@ tbody tr:nth-child(odd) th {
 }
 
 
-/* Literal.Number.Integer.Long */
+@-webkit-keyframes zomg {
+    0%, 100% { color: #7ccdea; }
+    16%      { color: #0074d9; }
+    32%      { color: #2ecc40; }
+    48%      { color: #ffdc00; }
+    64%      { color: #b10dc9; }
+    80%      { color: #ff4136; }
+}
+@keyframes zomg {
+    0%, 100% { color: #7ccdea; }
+    16%      { color: #0074d9; }
+    32%      { color: #2ecc40; }
+    48%      { color: #ffdc00; }
+    64%      { color: #b10dc9; }
+    80%      { color: #ff4136; }
+}

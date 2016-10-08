@@ -1,20 +1,19 @@
-name:               "Ink"
-description:        "Coming soon..."
+name:               "Sean Orfila"
+description:        "UI Development, Software Engineering & Unrelated Musings."
 
 url:                "https://seandogg.github.io"
 author:             "seandogg"
 email:              "sean.orfila@gmail.com"
-gravatar_hash:      ""
-twitter:            "SeanSince82"
+gravatar_hash:      "3ebfff757da27168fb6732a5be9d7b1d"
+twitter:            "seanSince82"
 email:              "sean.orfila@gmail.com"
 github:             "seandogg"
-#pinterest:          "jhondoe"
-#linkedin:           "jhondoe"
-#facebook:           "jhondoe"
+linkedin:           "sorfila"
+#facebook:           ""
 
-#disqus_shortname:   "thinker3197"
+#disqus_shortname:   ""
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "/resources/img/w-5600.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
