@@ -896,3 +896,9 @@ tbody tr:nth-child(odd) th {
     64%      { color: #b10dc9; }
     80%      { color: #ff4136; }
 }
+
+.resume {
+  p, h2, h3, h4, h5 ,h6 {
+    line-height: 1em;
+  }
+}

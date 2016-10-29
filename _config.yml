@@ -1,5 +1,5 @@
 name:               "Sean Orfila"
-description:        "UI Development, Software Engineering & Unrelated Musings."
+description:        "The basics"
 
 url:                "https://seandogg.github.io"
 author:             "seandogg"
@@ -24,10 +24,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  #- name:           "Work"
+  #  href:           "/work"
+  #- name:           "Fun"
+  #  href:           "/funzone"
 
 sass:
   style:            :compressed
