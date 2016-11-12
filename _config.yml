@@ -1,5 +1,5 @@
 name:               "Sean Orfila"
-description:        "just the basics"
+description:        "Do Awesome Stuff."
 
 url:                "https://seandogg.github.io"
 author:             "seandogg"
@@ -24,8 +24,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  #- name:           "Work"
-  #  href:           "/work"
+  - name:           "CV"
+    href:           "http://stackoverflow.com/story/sean-orfila"
   #- name:           "Fun"
   #  href:           "/funzone"
 
