@@ -24,8 +24,9 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "CV"
-    href:           "http://stackoverflow.com/story/sean-orfila"
+  -
+    name:           "CV"
+      href:           "http://stackoverflow.com/story/sean-orfila"
   #- name:           "Fun"
   #  href:           "/funzone"
 
