@@ -1,51 +1,7 @@
-name:               "Sean Orfila"
-description:        "Do Awesome Stuff."
-
-url:                "https://seandogg.github.io"
-author:             "seandogg"
-email:              "sean.orfila@gmail.com"
-gravatar_hash:      "3ebfff757da27168fb6732a5be9d7b1d"
-twitter:            "seanSince82"
-email:              "sean.orfila@gmail.com"
-github:             "seandogg"
-linkedin:           "sorfila"
-#facebook:           ""
-
-#disqus_shortname:   ""
-
-background:         "/resources/img/w-5600.jpg"
-
-paginate:           5
-paginate_path:      "/page:num/"
-
-baseurl:            ""
-permalink:          /:year/:month/:day/:title/
-
-markdown:           kramdown
-
-nav:
-  -
-  #  name:           "CV"
-  #    href:          "//stackoverflow.com/story/sean-orfila"
-  #- name:           "Fun"
-  #  href:           "/funzone"
-
-sass:
-  style:            :compressed
-
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-gems:
-  - jekyll-paginate
+# Site settings
+title: Grizzly && Poppy
+description: Modern Front-end Design and Software Engineering
+keywords: Software, Web Development && Design
+author: Sean Orfila
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
