@@ -7,7 +7,7 @@ image: "img/g.jpeg"
 date:   2015-04-25 12:12:12
 ---
 
-## How Did I Get Here?
+## How The Hell Did I Get Here?
 I didn't set out to compose software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
 
 What began as a hobby in school eventually became my full-time trade, and here we are. On the internet. Together.
