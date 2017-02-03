@@ -1,17 +1,38 @@
 ---
 title:  "Web Things"
-subtitle: "I write software every day."
+subtitle: "I write software."
 author: "Sean Orfila"
-avatar: "img/authors/photo.png"
+avatar: "img/authors/photo.jpg"
 image: "img/g.jpeg"
 date:   2015-04-25 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+## Websites, Web Apps && More
+I didn't set out to compose software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+What began as a hobby in school eventually became my full-time trade, and here we are. On the internet. Together.
+
+### The Early Days
+It was 2002. I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study `html` and `css` in addition to the regular curricula of `design`, `copy editing`, `writing` and `investigative journalism`. 
+
+Indeed, printed newspaper sales were crashing as our sources of information shifted to the web. Newspapers were struggling to transition into new income streams and hurting. The war was raging with full-force and it was probably the worst time to find a job in the news business.
+
+I was offered a design job at a local newspaper. The offer was for $22,000 USD per year. I declined and decided to drift around.
+
+### The Earlier Days
+I always kept up those `html` and `css` chops. For fun really... I'd grown up with computers so I knew my way around. I'd blog, make sites for fun and just mess around. Nothing serious. Yet.
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
 
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
 
