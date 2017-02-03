@@ -1,6 +1,6 @@
 ---
-title:  "Web Things"
-subtitle: "I write software."
+title:  "My Story"
+subtitle: "How I Became a Developer."
 author: "Sean Orfila"
 avatar: "img/authors/photo.jpg"
 image: "img/g.jpeg"
@@ -18,6 +18,8 @@ It was 2002. I was a student in the journalism department at CSU Long Beach. Luc
 Indeed, printed newspaper sales were crashing as our sources of information shifted to the web. Newspapers were struggling to transition into new income streams and hurting. The war was raging with full-force and it was probably the worst time to find a job in the news business.
 
 I was offered a design job at a local newspaper. The offer was for $22,000 USD per year. I declined and decided to drift around.
+
+![barrels](https://seandogg.github.io/img/padang.jpeg "Drifting Around")
 
 ### The Earlier Days
 I always kept up those `html` and `css` chops. For fun really... I'd grown up with computers so I knew my way around. I'd blog, make sites for fun and just mess around. Nothing serious. Yet.
