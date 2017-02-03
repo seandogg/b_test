@@ -15,7 +15,7 @@ What began as a hobby in school eventually became my full-time trade, and here w
 ### The Early Days
 It was 2002. I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study `html` and `css` in addition to the regular curricula of `design`, `copy editing`, `writing` and `investigative journalism`. 
 
-Indeed, printed newspaper sales were crashing as we began to rely more and more on the web for our information. Newspapers were struggling to generate new income streams. The US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
+Printed newspaper sales were crashing as we began to rely more and more on the web for our information. Newspapers were struggling to generate new income streams. The US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
 
 After college, I was offered a design job at a local newspaper. The offer was for $21,000 USD per year. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and then drift around the rest of the year.
 
