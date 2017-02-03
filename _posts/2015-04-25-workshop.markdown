@@ -1,9 +1,9 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+title:  "Web Things"
+subtitle: "I write software every day."
+author: "Sean Orfila"
+avatar: "img/authors/photo.png"
+image: "img/g.jpeg"
 date:   2015-04-25 12:12:12
 ---
 
