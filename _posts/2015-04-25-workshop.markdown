@@ -7,7 +7,7 @@ image: "img/g.jpeg"
 date:   2015-04-25 12:12:12
 ---
 
-## Websites, Web Apps && More
+## How Did I Get Here?
 I didn't set out to compose software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
 
 What began as a hobby in school eventually became my full-time trade, and here we are. On the internet. Together.
@@ -15,14 +15,14 @@ What began as a hobby in school eventually became my full-time trade, and here w
 ### The Early Days
 It was 2002. I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study `html` and `css` in addition to the regular curricula of `design`, `copy editing`, `writing` and `investigative journalism`. 
 
-Indeed, printed newspaper sales were crashing as our sources of information shifted to the web. Newspapers were struggling to transition into new income streams and hurting. The war was raging with full-force and it was probably the worst time to find a job in the news business.
+Indeed, printed newspaper sales were crashing as we began to rely more and more on the web for our information. Newspapers were struggling to generate new income streams. The US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
 
-I was offered a design job at a local newspaper. The offer was for $22,000 USD per year. I declined and decided to drift around.
+After college, I was offered a design job at a local newspaper. The offer was for $21,000 USD per year. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and then drift around the rest of the year.
 
 ![barrels](https://seandogg.github.io/img/padang.jpeg "Drifting Around")
 
 ### The Earlier Days
-I always kept up those `html` and `css` chops. For fun really... I'd grown up with computers so I knew my way around. I'd blog, make sites for fun and just mess around. Nothing serious. Yet.
+Luckily I kept those `html` and `css` chops. I did it for fun. I'd grown up with computers so I knew my way around the machine. I'd create blogs, make sites for fun and just generally mess around with code. Nothing serious.
 
 
 
