@@ -1,6 +1,6 @@
 ---
 title:  "My Story"
-subtitle: "How I Became a Developer."
+subtitle: "How I Became a Web Developer."
 author: "Sean Orfila"
 avatar: "img/authors/photo.jpg"
 image: "img/g.jpeg"
@@ -15,29 +15,39 @@ What began as a hobby in school eventually became my full-time trade, and here w
 ### The Early Days
 It was 2002. I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study `html` and `css` in addition to the regular curricula of `design`, `copy editing`, `writing` and `investigative journalism`. 
 
-Printed newspaper sales were crashing as we began to rely more and more on the web for our information. Newspapers were struggling to generate new income streams. The US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
+Newspaper sales were crashing as we began to rely more and more on the web for our information. Media companies were struggling to generate new income streams on the web. The transition wasn't smooth. To top it off, the US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
 
-After college, I was offered a design job at a local newspaper. The offer was for $21,000 USD per year. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and then drift around the rest of the year.
+After graduation, I was offered a design job at a local newspaper. The offer was for $21,000 USD per year. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and take to drifting around the world surfing the rest of the year.
 
 ![barrels](https://seandogg.github.io/img/padang.jpeg "Drifting Around")
 
 ### The Earlier Days
-Luckily I kept those `html` and `css` chops. I did it for fun. I'd grown up with computers so I knew my way around the machine. I'd create blogs, make sites for fun and just generally mess around with code. Nothing serious.
+Luckily I kept those `html` and `css` chops. I did it for fun. I'd grown up with computers so I knew my way around the machine. I'd create blogs, make sites for myself and just generally dabble in code. Nothing serious. 
 
+In 2005, after returning to the US from living abroad, I set out to create a website for **The Noetic Society**, a non-profit Philosophy group led by Pierre Grimes. Pierre was a freshman-year college philosophy professor that holds a group that ancient Greek Philosophy and philosophical counseling. 
 
+The site launched that year and was my first project released into the wild that wasn't a blog or otherwise part of some CMS. 
 
-
-
-
+### Getting Overwhelmed
  
+From that site, others followed. I was soon offered a job to create a website for a print magazine. **This is when I began getting overwhelmed**. It wasn't the code, it was business. I had no business acumen. Because I never set out to be a professional web guy, I knew nothing about invoicing, scope of work, running a business and all the stuff that comes with being a businessperson. 
+
+I hit eject after that project, and stopped taking clients. I was burnt out on website development and opted to keep my seasonal job. 
+
+### Becoming a Craftsman
+
+I knew the lifeguarding gig wasn't a long-term option. Full-time positions were few and far between, and I was getting burnt out on that too. I wrapped up another summer and began working for a flooring contractor.
  
- 
+My boss was a master carpenter. Together we installed, repaired and restored hardwood floors. I grew strong hands and a strong back, worked all day and became very handy with all types of power and hand tools. We typically worked on multi-million dollar homes in Laguna Beach and surrounding areas. 
 
+Life was good. I put in a solid two years of work, made good money and generally enjoyed life. 
 
+And then it bottomed out. Construction slowed, the money began to slow - and the lack of healthcare and benefits was a big cost out-of-pocket. 
 
+### Bridging the Gap(s)
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+With the stop-and-go income from construction, I decided to go back to web development. But this time I took a contractor's approach. 
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Working for the master carpenter taught me the value of honest, hard work. It also taught me how to invoice, estimate a job (by measuring a house) and the importance of word-of-mouth over any type of advertising. 
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### Starting a Business (with a partner)
