@@ -1,6 +1,6 @@
 ---
-title:  "My Story"
-subtitle: "How I Became a Web Developer."
+title:  "How I Became a Developer"
+subtitle: "The internet is my friend."
 author: "Sean Orfila"
 avatar: "img/authors/photo.jpg"
 image: "img/g.jpeg"
@@ -8,7 +8,7 @@ date:   2015-04-25 12:12:12
 ---
 
 ## How The Hell Did I Get Here?
-I didn't set out to compose software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
+I didn't set out to write software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
 
 What began as a hobby in school eventually became my full-time trade, and here we are. On the internet. Together.
 
