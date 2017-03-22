@@ -28,15 +28,15 @@ In 2005, after returning to the US from living abroad, I set out to create a web
 
 The site launched that year and was my first project released into the wild that wasn't a blog or otherwise part of some CMS. 
 
-### Getting Overwhelmed
+### Burn Out #1
  
-From that site, others followed. I was soon offered a job to create a website for a print magazine. **This is when I began getting overwhelmed**. It wasn't the code, it was business. I had no business acumen. Because I never set out to be a professional web guy, I knew nothing about invoicing, scope of work, running a business and all the stuff that comes with being a businessperson. 
+From that site, others followed. I was soon offered a job to create a website for a print magazine. **This is when I began getting overwhelmed**. It wasn't the code, it was business. I had no business acumen. Because I never set out to be a professional web guy, I knew nothing about invoicing, scope of work, running a business, managing expectations and all the dirty stuff that comes with being in business.
 
-I hit eject after that project, and stopped taking clients. I was burnt out on website development and opted to keep my seasonal job. 
+I hit eject. After that project I stopped taking clients. I was burnt out on website development and opted to keep my seasonal job.
 
-### Becoming a Craftsman
+### Craftsmen Years
 
-I knew the lifeguarding gig wasn't a long-term option. Full-time positions were few and far between, and I was getting burnt out on that too. I wrapped up another summer and began working for a flooring contractor.
+I knew the life-guarding gig wasn't a long-term option. Full-time positions were few and far between, and I was getting burnt out on that too. I wrapped up another summer and began working for a flooring contractor.
  
 My boss was a master carpenter. Together we installed, repaired and restored hardwood floors. I grew strong hands and a strong back, worked all day and became very handy with all types of power and hand tools. We typically worked on multi-million dollar homes in Laguna Beach and surrounding areas. 
 
@@ -48,6 +48,4 @@ And then it bottomed out. Construction slowed, the money began to slow - and the
 
 With the stop-and-go income from construction, I decided to go back to web development. But this time I took a contractor's approach. 
 
-Working for the master carpenter taught me the value of honest, hard work. It also taught me how to invoice, estimate a job (by measuring a house) and the importance of word-of-mouth over any type of advertising. 
-
-### Starting a Business (with a partner)
+Working for the master carpenter taught me the value of honest, hard work. It also taught me how to invoice, estimate a job (by measuring things) and the importance of word-of-mouth over any type of advertising.
