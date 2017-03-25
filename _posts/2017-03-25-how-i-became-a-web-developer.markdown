@@ -36,7 +36,7 @@ Because I never set out to be a professional web guy, I knew nothing about invoi
 
 `I hit eject`. After that project I stopped taking clients. I was burnt out on website development and opted to return to my seasonal job as an ocean lifeguard.
 
-{% include image.html url="https://seandogg.github.io/img/hb-nortside.jpg" description="Northside" %} 
+{% include image.html url="https://seandogg.github.io/img/hb-northside.jpg" description="Northside" %} 
 
 ### Craftsmen Years
 
